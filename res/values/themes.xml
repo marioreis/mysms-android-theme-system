@@ -31,8 +31,8 @@
 		<item name="messageListGroupHeaderStyle">@style/MessageListGroupHeader</item>
 			
 		<item name="messageListItemTextStyle">@style/MessageListItemText</item>
-		<item name="messageListItemBubbleIncomingDrawable">@drawable/bubble_mysms_style_gray</item>
-		<item name="messageListItemBubbleOutgoingDrawable">@drawable/bubble_mysms_style_blue</item>
+		<item name="messageListItemBubbleIncomingDrawable">@drawable/bubble_mysms_incoming</item>
+		<item name="messageListItemBubbleOutgoingDrawable">@drawable/bubble_mysms_outgoing</item>
 		<item name="messageListItemStatusDeliveredDrawable">@drawable/message_status_delivered</item>
 		<item name="messageListItemStatusFailedDrawable">@drawable/message_status_failed</item>
 		
@@ -52,9 +52,6 @@
 		
 	</style>
 	
-	<style name="Mysms.ComposeMessage">
-	    <item name="android:windowBackground">@android:drawable/bottom_bar</item>
-	</style>
 	<style name="Mysms.ContactList" />
 	<style name="Mysms.ConversationList" />
 	<style name="Mysms.MessageList" />

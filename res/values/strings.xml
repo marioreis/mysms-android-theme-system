@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">mysms Theme Dark</string>
-  <string name="theme_name">mysms dark</string>
-  <string name="theme_dialog_title"><i>mysms</i> Theme Dark</string>
+  <string name="app_name">mysms Theme Dark Reloaded</string>
+  <string name="theme_name">mysms dark reloaded</string>
+  <string name="theme_dialog_title"><i>mysms</i> Theme Dark Reloaded</string>
   <string name="theme_dialog_activate_primary_text"><i>mysms</i> is required to activate this theme. Would you like to launch <i>mysms</i>?</string>
   <string name="theme_dialog_activate_secondary_text">Tap \"Activate\" to launch <i>mysms</i> and activate this theme.</string>
   <string name="theme_dialog_activate_text">Activate</string>

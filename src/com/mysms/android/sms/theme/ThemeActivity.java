@@ -1,7 +1,5 @@
 package com.mysms.android.sms.theme;
 
-import com.mysms.android.sms.theme.system.R;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -14,6 +12,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import at.pansy.droid.mysms.theme.system.R;
 
 public class ThemeActivity extends Activity {
 	
